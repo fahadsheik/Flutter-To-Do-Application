@@ -21,7 +21,6 @@ class ToDoItem extends StatelessWidget {
       margin: EdgeInsets.only(bottom: 20),
       child: ListTile(
         onTap: () {
-          // print('Clicked on Todo Item.');
           onToDoChanged(todo);
         },
         shape: RoundedRectangleBorder(
@@ -55,7 +54,6 @@ class ToDoItem extends StatelessWidget {
             iconSize: 18,
             icon: Icon(Icons.delete),
             onPressed: () {
-              // print('Clicked on delete icon');
               onDeleteItem(todo.id);
             },
           ),
