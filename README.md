@@ -5,6 +5,8 @@ A To-do app built with Flutter. This app has different functionalities such as a
 # Installation 
 
 In the 'flutter-apk' folder in the repo, download the 'app-release.apk' file to access the app in your device.
+<img width="946" alt="image" src="https://github.com/fahadsheik/Flutter-To-Do-Application/assets/119167516/d56d9f07-1d4f-4070-9bd7-3509d5de0db2">
+
 
 # Images
 
