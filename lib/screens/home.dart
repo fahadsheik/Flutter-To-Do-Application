@@ -83,7 +83,7 @@ class _HomeState extends State<Home> {
                     color: Colors.white,
                     boxShadow: const [
                       BoxShadow(
-                        color: Colors.grey,
+                        color: Color.fromARGB(255, 245, 120, 120),
                         offset: Offset(0.0, 0.0),
                         blurRadius: 10.0,
                         spreadRadius: 0.0,
